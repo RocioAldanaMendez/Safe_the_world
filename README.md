@@ -14,3 +14,8 @@ Recuerden:
 * Cada tipo de apocalipsis será distinto y no sabemos con cuál esta batallando tu equipo, recuerden hacer una introducción explicativa antes de ofrecer la solución.
 * Para el cierre de su exposición, dar espacio a responder preguntas de la audiencia.
 Después de escuchar la presentación de todos los equipos, votaremos cuál fue la mejor presentación y les daré un feedback a cada uno.
+
+
+## 🔗 Links
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://portfolio-ro.com/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rocio-aldana-mendez)
